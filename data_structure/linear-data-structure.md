@@ -1,4 +1,4 @@
-# Linear Data Structures
+# Linear Data Structures: Arrays
 
 ## Arrays
 Arrays usually fixed in size.
