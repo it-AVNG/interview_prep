@@ -51,7 +51,7 @@ File management is a tree.
 Syntax Tree: build a complier for example.
 Priority Queue: of course we can use heap, but this can be done.
 
-**insight**: when we create model, it is a tree.
+**insight**: when we create Databasemodel, it is a tree.
 
 ---
 ==Validate a BST==
