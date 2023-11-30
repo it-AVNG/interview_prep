@@ -18,7 +18,7 @@ Furthermore, big O analysis worst case Scenarios time and space complexity to un
 4. When see Trees or Graphs: BFS and DFS is your friend
 5. Recursive solution can be subtitute by a stack. Many time a recuresion is long enough, memory could be a problem.
 6. Array that can be solve using O(n^2). Try to sort the array first and we can approach with O(nlogn), if we use Hashing O(n)
-7. Optimize or find min or max, dynamic programming approach (coin chain example)
+7. Optimize or find min or max of steps we use dynamic programming approach (coin chain example)
 8. Search and manipulation string using TRIE data structure
 9. When a linked list with no addition space to store extra computation, use rabbit and hare method.
 
